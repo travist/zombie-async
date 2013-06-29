@@ -1,6 +1,6 @@
 {
   "name": "zombie-async",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Turns all of the Zombie.js methods into asynchronous callbacks for consistency when using the Async library.",
   "author": {
     "name": "Travis Tidwell",
