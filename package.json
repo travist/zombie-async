@@ -1,0 +1,24 @@
+{
+  "name": "zombie-async",
+  "version": "0.0.1",
+  "description": "Turns all of the Zombie.js methods into asynchronous callbacks for consistency when using the Async library.",
+  "author": {
+    "name": "Travis Tidwell",
+    "email": "travist349@gmail.com",
+    "url": "http://github.com/travist"
+  },
+  "homepage": "http://github.com/travist/zombie-async",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/travist/zombie-async.git"
+  },
+  "bugs": {
+    "url": "http://github.com/travist/zombie-async/issues"
+  },
+  "main": "./lib/zombie-async.js",
+  "engines": { "node": ">=0" },
+  "dependencies": {
+    "zombie": ">=0",
+    "underscore": ">=0"
+  }
+}
